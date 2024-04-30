@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ayush Pawar</h1>
 <h3 align="center">A developer by mind and a creator by heart. SDE-1 @Edfora, Android Developer,Technical Writer, & Flutter :blue_heart:</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=spyy004&label=Profile%20views&color=0e75b6&style=flat" alt="spyy004" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=spyyy004&label=Profile%20views&color=0e75b6&style=flat" alt="spyyy004" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=spyy004" alt="spyy004" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=spyyy004" alt="spyyy004" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/iyush004" target="blank"><img src="https://img.shields.io/twitter/follow/iyush004?logo=twitter&style=for-the-badge" alt="iyush004" /></a> </p>
 
@@ -39,8 +39,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ayush"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ayush" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=spyy004&show_icons=true&locale=en&layout=compact" alt="spyy004" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=spyyy004&show_icons=true&locale=en&layout=compact" alt="spyyy004" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=spyy004&show_icons=true&locale=en" alt="spyy004" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=spyyy004&show_icons=true&locale=en" alt="spyyy004" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=spyy004&" alt="spyy004" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=spyyy004&" alt="spyyy004" /></p>
