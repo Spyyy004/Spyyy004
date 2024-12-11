@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush Pawar</h1>
-<h3 align="center">A developer by mind and a creator by heart. Product Engineer @Mosaic Wellness, Android Developer,Technical Writer, & Flutter :blue_heart:</h3>
+<h3 align="center">Product Engineer @Mosaic Wellness, Android Developer,Technical Writer, & Flutter :blue_heart:</h3>
 <h3 align="center">Old account was [Spyy004](https://github.com/Spyy004).</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spyyy004&label=Profile%20views&color=0e75b6&style=flat" alt="spyyy004" /> </p>
